@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+article{
+	width:800px;
+	margin:0 auto;
+	padding:30px;
+}
+canvas{
+	background-color:#ccc;
+	border:black 3px solid;	
+}
